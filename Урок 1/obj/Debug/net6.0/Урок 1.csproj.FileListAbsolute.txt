@@ -1,0 +1,15 @@
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/bin/Debug/net6.0/Урок 1
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/bin/Debug/net6.0/Урок 1.deps.json
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/bin/Debug/net6.0/Урок 1.runtimeconfig.json
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/bin/Debug/net6.0/Урок 1.dll
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/bin/Debug/net6.0/Урок 1.pdb
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.csproj.AssemblyReference.cache
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.AssemblyInfoInputs.cache
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.AssemblyInfo.cs
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.csproj.CoreCompileInputs.cache
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.dll
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/refint/Урок 1.dll
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.pdb
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/Урок 1.genruntimeconfig.cache
+/home/viktor/Geek/4.MetingToProgrammingLanguage/Урок 1/obj/Debug/net6.0/ref/Урок 1.dll
